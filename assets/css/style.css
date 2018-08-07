@@ -301,6 +301,7 @@ img.portfoliopic {
 
     .content {
         width: 768px;
+        height: 1000px;
     }
 
     .contactcontent {
@@ -308,13 +309,13 @@ img.portfoliopic {
     }
 
     .portfoliobox {
-        width: 768px;
+        width: 80%;
         height: 51%;
     }
 
     .box {
-        width: 768px;
-        height: 70%;
+        width: 80%;
+        height: 80%;
     }
 
     .portfoliocontent {
@@ -327,6 +328,7 @@ img.portfoliopic {
 
     .contactbox {
         height: 50%;
+        width: 80%;
     }
 
 }
